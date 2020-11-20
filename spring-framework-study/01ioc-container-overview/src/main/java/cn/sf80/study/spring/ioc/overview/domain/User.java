@@ -108,7 +108,12 @@ public class User implements BeanNameAware {
     public void setContextAsText(String contextAsText) {
         this.contextAsText = contextAsText;
     }
-
+    public static User createUser() {
+        User user = new User();
+        user.setId(1L);
+        user.setName("小马哥");
+        return user;
+    }
     @Override
     public String toString() {
         return "User{" +
