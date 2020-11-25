@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>dependency-lookup</artifactId>
+    <artifactId>03dependency-lookup</artifactId>
 
     <dependencies>
         <dependency>
