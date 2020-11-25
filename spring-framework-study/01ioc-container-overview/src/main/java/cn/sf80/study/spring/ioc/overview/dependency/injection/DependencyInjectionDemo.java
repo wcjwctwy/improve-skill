@@ -9,7 +9,7 @@ import org.springframework.core.env.Environment;
 /**
  * 依赖注入示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class DependencyInjectionDemo {

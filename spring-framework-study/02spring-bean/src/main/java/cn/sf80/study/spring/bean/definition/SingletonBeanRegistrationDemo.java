@@ -9,7 +9,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * 单体 Bean 注册实例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class SingletonBeanRegistrationDemo {

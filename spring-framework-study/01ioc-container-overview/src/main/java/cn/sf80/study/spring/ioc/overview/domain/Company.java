@@ -3,7 +3,7 @@ package cn.sf80.study.spring.ioc.overview.domain;
 /**
  * 公司类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class Company {

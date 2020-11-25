@@ -10,7 +10,7 @@ import java.util.Collection;
 /**
  * 用户信息仓库
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class UserRepository {
