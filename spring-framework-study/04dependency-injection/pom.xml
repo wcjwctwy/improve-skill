@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>${groupId}</groupId>
-            <artifactId>ioc-container-overview</artifactId>
+            <artifactId>01ioc-container-overview</artifactId>
             <version>${version}</version>
             <scope>compile</scope>
         </dependency>

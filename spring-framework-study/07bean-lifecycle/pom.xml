@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>05dependency-source</artifactId>
+    <artifactId>07bean-lifecycle</artifactId>
 
     <dependencies>
 
