@@ -1,0 +1,3 @@
+
+## 定义 namespace 与 NamespaceHandler 的映射
+http\://time.sf80.cn/schema/users=cn.sf80.study.spring.configuration.metadata.UsersNamespaceHandler

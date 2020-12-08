@@ -16,6 +16,8 @@
         <module>05dependency-source</module>
         <module>06bean-scope</module>
         <module>07bean-lifecycle</module>
+        <module>08configuration-metadata</module>
+        <module>09resources</module>
     </modules>
 
     <properties>
