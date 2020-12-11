@@ -18,6 +18,7 @@
         <module>07bean-lifecycle</module>
         <module>08configuration-metadata</module>
         <module>09resources</module>
+        <module>10i18n</module>
     </modules>
 
     <properties>
