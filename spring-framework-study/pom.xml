@@ -19,6 +19,9 @@
         <module>08configuration-metadata</module>
         <module>09resources</module>
         <module>10i18n</module>
+        <module>11validation</module>
+        <module>12data-binding</module>
+        <module>13conversion</module>
     </modules>
 
     <properties>
