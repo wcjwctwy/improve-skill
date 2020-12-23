@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 外部化配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 @PropertySource("classpath:/META-INF/user-bean-definitions.properties")

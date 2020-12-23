@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 /**
  * JavaBeans 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class JavaBeansDemo {

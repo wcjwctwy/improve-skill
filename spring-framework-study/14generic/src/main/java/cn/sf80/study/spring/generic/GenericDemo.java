@@ -6,7 +6,7 @@ import java.util.Collection;
 /**
  * Java 泛型示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class GenericDemo {

@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 /**
  * Spring Bean Validation 整合示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see Validator
  * @see LocalValidatorFactoryBean
  * @since

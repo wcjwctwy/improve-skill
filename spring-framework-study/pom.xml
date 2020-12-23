@@ -24,6 +24,7 @@
         <module>13conversion</module>
         <module>14generic</module>
         <module>15event</module>
+        <module>16annotation</module>
     </modules>
 
     <properties>

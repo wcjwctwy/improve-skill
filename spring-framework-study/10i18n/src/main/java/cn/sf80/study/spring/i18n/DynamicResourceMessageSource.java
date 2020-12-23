@@ -34,7 +34,7 @@ import static java.nio.file.StandardWatchEventKinds.ENTRY_MODIFY;
  * 5. 使用线程池处理文件变化
  * 6. 重新装载 Properties 对象
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see MessageSource
  * @see AbstractMessageSource
  * @since

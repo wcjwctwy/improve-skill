@@ -22,7 +22,7 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
 /**
  * "users.xsd" {@link NamespaceHandler} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class UsersNamespaceHandler extends NamespaceHandlerSupport {

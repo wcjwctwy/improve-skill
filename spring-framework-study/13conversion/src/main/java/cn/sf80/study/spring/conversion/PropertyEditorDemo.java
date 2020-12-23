@@ -5,7 +5,7 @@ import java.beans.PropertyEditor;
 /**
  * {@link PropertyEditor} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see PropertyEditor
  * @since
  */

@@ -15,7 +15,7 @@ import java.net.URLConnection;
 /**
  * X {@link URLConnection} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class XURLConnection extends URLConnection {

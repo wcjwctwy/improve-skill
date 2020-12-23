@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEvent;
 /**
  * 自定义 Spring 事件
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class MySpringEvent extends ApplicationEvent {

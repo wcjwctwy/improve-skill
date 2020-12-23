@@ -11,7 +11,7 @@ import java.nio.charset.Charset;
 /**
  * X Handler 测试示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class HandlerTest {

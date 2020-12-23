@@ -8,7 +8,7 @@ import org.springframework.context.annotation.CommonAnnotationBeanPostProcessor;
 /**
  * TODO
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class BeanLifecycleDemo {

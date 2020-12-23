@@ -10,7 +10,7 @@ import java.util.Locale;
 /**
  * 自定义 Spring {@link Validator} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see Validator
  * @since
  */

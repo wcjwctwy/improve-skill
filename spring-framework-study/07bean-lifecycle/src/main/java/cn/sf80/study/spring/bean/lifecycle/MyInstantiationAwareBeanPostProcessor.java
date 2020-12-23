@@ -11,7 +11,7 @@ import org.springframework.util.ObjectUtils;
 /**
  * TODO
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 class MyInstantiationAwareBeanPostProcessor implements InstantiationAwareBeanPostProcessor {

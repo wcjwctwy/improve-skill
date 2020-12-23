@@ -14,7 +14,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 /**
  * {@link ApplicationListener} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see ApplicationListener
  * @see EventListener
  * @since

@@ -9,7 +9,7 @@ import java.util.Map;
 /**
  * 基于 Java 注解 Spring IoC 容器元信息配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 // 将当前类作为 Configuration Class

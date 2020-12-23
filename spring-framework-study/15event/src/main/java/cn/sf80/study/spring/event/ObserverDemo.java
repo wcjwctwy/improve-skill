@@ -8,7 +8,7 @@ import java.util.Observer;
 /**
  * {@link Observer} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see Observer
  * @since
  */

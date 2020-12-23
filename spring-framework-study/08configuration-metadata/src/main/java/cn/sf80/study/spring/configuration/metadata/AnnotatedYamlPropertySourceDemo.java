@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * 基于 Java 注解的 YAML 外部化配置示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 @PropertySource(

@@ -12,7 +12,7 @@ import java.util.Properties;
 /**
  * YAML 格式的 {@link PropertySourceFactory} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class YamlPropertySourceFactory implements PropertySourceFactory {

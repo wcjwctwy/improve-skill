@@ -11,7 +11,7 @@ import java.io.Reader;
 /**
  * 带有字符编码的 {@link FileSystemResource} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see FileSystemResource
  * @see EncodedResource
  * @since

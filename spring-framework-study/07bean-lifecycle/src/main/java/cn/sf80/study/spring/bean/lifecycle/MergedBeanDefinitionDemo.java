@@ -10,7 +10,7 @@ import org.springframework.core.io.support.EncodedResource;
 /**
  * BeanDefinition 合并示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class MergedBeanDefinitionDemo {

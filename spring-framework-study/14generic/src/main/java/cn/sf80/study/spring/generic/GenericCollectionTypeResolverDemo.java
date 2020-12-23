@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * {@link GenericCollectionTypeResolver} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see GenericCollectionTypeResolver
  * @since
  */

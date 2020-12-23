@@ -13,7 +13,7 @@ import org.springframework.util.ObjectUtils;
 /**
  * Bean 配置元信息示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class BeanConfigurationMetadataDemo {

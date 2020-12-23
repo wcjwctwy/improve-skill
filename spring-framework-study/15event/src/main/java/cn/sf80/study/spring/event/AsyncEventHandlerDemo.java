@@ -18,7 +18,7 @@ import static java.util.concurrent.Executors.newSingleThreadExecutor;
 /**
  * 异步事件处理器示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class AsyncEventHandlerDemo {

@@ -8,7 +8,7 @@ import java.util.Locale;
 /**
  * {@link MessageFormat} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see MessageFormat
  * @since
  */

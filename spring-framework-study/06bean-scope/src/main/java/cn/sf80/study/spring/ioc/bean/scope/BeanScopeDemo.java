@@ -19,7 +19,7 @@ import java.util.Map;
 /**
  * Bean 的作用域示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class BeanScopeDemo implements DisposableBean {

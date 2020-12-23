@@ -10,7 +10,7 @@ import java.nio.charset.Charset;
 /**
  * 简单地继承 {@link sun.net.www.protocol.x.Handler} 类
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class Handler extends sun.net.www.protocol.x.Handler {

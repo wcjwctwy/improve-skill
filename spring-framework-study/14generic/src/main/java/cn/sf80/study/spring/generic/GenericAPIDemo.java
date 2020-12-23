@@ -9,7 +9,7 @@ import java.util.stream.Stream;
 /**
  * Java 泛型 API 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class GenericAPIDemo {

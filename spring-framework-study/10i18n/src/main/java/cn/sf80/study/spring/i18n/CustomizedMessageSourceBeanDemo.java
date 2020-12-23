@@ -15,7 +15,7 @@ import org.springframework.context.support.ReloadableResourceBundleMessageSource
 /**
  * Spring Boot 场景下自定义 {@link MessageSource} Bean
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see MessageSource
  * @see MessageSourceAutoConfiguration
  * @see ReloadableResourceBundleMessageSource

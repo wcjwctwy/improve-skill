@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 /**
  * 自定义 {@link PropertyEditorRegistrar} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see PropertyEditorRegistrar
  * @since
  */

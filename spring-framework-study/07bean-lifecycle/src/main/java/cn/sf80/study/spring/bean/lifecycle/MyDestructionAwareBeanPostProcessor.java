@@ -7,7 +7,7 @@ import org.springframework.util.ObjectUtils;
 /**
  * {@link DestructionAwareBeanPostProcessor} 实现
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class MyDestructionAwareBeanPostProcessor implements DestructionAwareBeanPostProcessor {

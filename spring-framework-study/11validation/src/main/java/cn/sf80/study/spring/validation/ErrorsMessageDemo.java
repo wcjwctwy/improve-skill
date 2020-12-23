@@ -14,7 +14,7 @@ import java.util.Locale;
 /**
  * 错误文案示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see Errors
  * @since
  */

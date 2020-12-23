@@ -5,7 +5,7 @@ import org.springframework.core.ResolvableType;
 /**
  * {@link ResolvableType} Demo
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @see ResolvableType
  * @since
  */

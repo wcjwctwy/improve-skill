@@ -12,7 +12,7 @@ import org.springframework.core.io.support.EncodedResource;
 /**
  * {@link PropertiesBeanDefinitionReader} 示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class PropertiesBeanDefinitionReaderDemo {

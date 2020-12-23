@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationListener;
 /**
  * 自定义 Spring 事件监听器
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class MySpringEventListener implements ApplicationListener<MySpringEvent> {

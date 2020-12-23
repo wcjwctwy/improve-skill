@@ -7,7 +7,7 @@ import org.springframework.context.support.GenericApplicationContext;
 /**
  * 自定义 Spring 事件示例
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
+ * @author wangcongjun
  * @since
  */
 public class CustomizedSpringEventDemo {
