@@ -6,7 +6,9 @@ import java.lang.annotation.*;
 
 /**
  * 激活 "HelloWorld" 模块注解
- *
+ * 方法一： 通过 Configuration Class 实现 {@link HelloWorldConfiguration}
+ * 方法二：通过 ImportSelector 接口实现  {@link HelloWorldImportSelector}
+ * 方法三：通过 ImportBeanDefinitionRegistrar  {@link HelloWorldImportBeanDefinitionRegistrar}
  * @author wangcongjun
  * @since
  */
