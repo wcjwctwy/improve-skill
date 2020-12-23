@@ -23,6 +23,7 @@
         <module>12data-binding</module>
         <module>13conversion</module>
         <module>14generic</module>
+        <module>15event</module>
     </modules>
 
     <properties>
