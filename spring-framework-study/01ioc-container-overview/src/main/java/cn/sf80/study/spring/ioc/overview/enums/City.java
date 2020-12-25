@@ -9,6 +9,7 @@ package cn.sf80.study.spring.ioc.overview.enums;
 public enum City {
 
     BEIJING,
+    NANJING,
     HANGZHOU,
     SHANGHAI
 }
