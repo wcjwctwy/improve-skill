@@ -26,6 +26,7 @@
         <module>15event</module>
         <module>16annotation</module>
         <module>17environment</module>
+        <module>18application-context-lifecycle</module>
     </modules>
 
     <properties>
