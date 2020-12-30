@@ -11,7 +11,6 @@
 
     <artifactId>ehcache2-course</artifactId>
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/net.sf.ehcache/ehcache -->
         <dependency>
             <groupId>net.sf.ehcache</groupId>
             <artifactId>ehcache</artifactId>

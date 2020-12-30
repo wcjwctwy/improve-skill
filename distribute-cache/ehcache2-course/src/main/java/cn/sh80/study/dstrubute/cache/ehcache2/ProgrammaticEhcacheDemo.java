@@ -34,5 +34,6 @@ public class ProgrammaticEhcacheDemo {
         test.put(new Element(1L,"Hello world"));
 
         System.out.println(test.get(1L));
+        cacheManager.shutdown();
     }
 }
