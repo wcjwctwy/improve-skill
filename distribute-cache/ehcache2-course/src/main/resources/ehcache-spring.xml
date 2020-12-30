@@ -1,0 +1,26 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="ehcache.xsd">
+    <!--diskStore：缓存数据持久化的目录 地址  -->
+    <diskStore path="/opt/cache/spring" />
+    <defaultCache
+        maxElementsInMemory="1000"
+        maxElementsOnDisk="10000000"
+        eternal="false"
+        overflowToDisk="false"
+        diskPersistent="true"
+        timeToIdleSeconds="120"
+        timeToLiveSeconds="120"
+        diskExpiryThreadIntervalSeconds="120"
+        memoryStoreEvictionPolicy="LRU">
+    </defaultCache>
+    <cache name="springCache"
+           maxEntriesLocalHeap="500"
+           eternal="false"
+           overflowToDisk="true"
+           diskPersistent="true"
+           timeToIdleSeconds="300"
+           timeToLiveSeconds="600"
+           diskExpiryThreadIntervalSeconds="1"
+           memoryStoreEvictionPolicy="LFU">
+    </cache>
+</ehcache>
