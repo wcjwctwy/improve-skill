@@ -16,6 +16,8 @@
     <modules>
         <module>ehcache3-course</module>
         <module>ehcache2-course</module>
+        <module>guava-course</module>
+        <module>spring-cache</module>
     </modules>
 
 
