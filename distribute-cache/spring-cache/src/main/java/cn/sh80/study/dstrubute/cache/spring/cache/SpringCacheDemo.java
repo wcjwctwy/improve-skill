@@ -9,17 +9,11 @@ import org.springframework.cache.annotation.Cacheable;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.cache.concurrent.ConcurrentMapCache;
 import org.springframework.cache.support.SimpleCacheManager;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.expression.Expression;
-import org.springframework.expression.ExpressionParser;
-import org.springframework.expression.ParserContext;
-import org.springframework.expression.common.TemplateParserContext;
-import org.springframework.expression.spel.standard.SpelExpressionParser;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import javax.crypto.KeyGenerator;
 import java.util.Arrays;
 
 /**
@@ -29,7 +23,6 @@ import java.util.Arrays;
 @Configuration
 @EnableCaching
 public class SpringCacheDemo {
-
     @Bean
     public CacheManager cacheManager() {
         SimpleCacheManager simpleCacheManager = new SimpleCacheManager();
@@ -74,6 +67,24 @@ public class SpringCacheDemo {
             System.out.printf("存储账户%s信息\n",account.getName());
             return account;
         }
+    }
 
+    public static void main(String[] args) {
+        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
+        context.register(SpringCacheDemo.class);
+        context.refresh();
+        AccountService bean = context.getBean(AccountService.class);
+        Account abc = bean.getAccount("abc");
+        System.out.println(abc);
+
+        Account abc1 = bean.getAccount("abc");
+        System.out.println(abc1);
+
+        bean.saveAccount(new Account("123"));
+
+        Account account = bean.getAccount("123");
+        System.out.println(account);
+
+        context.close();
     }
 }

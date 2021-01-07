@@ -18,7 +18,14 @@
         <module>ehcache2-course</module>
         <module>guava-course</module>
         <module>spring-cache</module>
+        <module>ranking-list</module>
     </modules>
 
-
+<dependencies>
+    <dependency>
+        <groupId>org.projectlombok</groupId>
+        <artifactId>lombok</artifactId>
+        <optional>true</optional>
+    </dependency>
+</dependencies>
 </project>
